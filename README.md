@@ -1,2 +1,2 @@
 # CppFiles
-SFLS信奥研修班
+洛谷自动AC机
